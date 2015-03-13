@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/behavioralpattern/behavioralpattern.iml" filepath="$PROJECT_DIR$/behavioralpattern/behavioralpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5assignment.iml" filepath="$PROJECT_DIR$/chapter5assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creationalpattern/creationalpattern.iml" filepath="$PROJECT_DIR$/creationalpattern/creationalpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownbehavioral/ownbehavioral.iml" filepath="$PROJECT_DIR$/ownbehavioral/ownbehavioral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/owncreational/owncreational.iml" filepath="$PROJECT_DIR$/owncreational/owncreational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownstructural/ownstructural.iml" filepath="$PROJECT_DIR$/ownstructural/ownstructural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structuralpattern/structuralpattern.iml" filepath="$PROJECT_DIR$/structuralpattern/structuralpattern.iml" />
+    </modules>
+  </component>
+</project>
